@@ -1,5 +1,5 @@
 # sap-api-integrations-sales-inquiry-events   
-sap-api-integrations-sales-inquiry-events は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生した販売見積イベントを、SAP API で出力するマイクロサービスです。  
+sap-api-integrations-sales-inquiry-events は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生した販売引合イベントを、SAP API で出力するマイクロサービスです。  
 sap-api-integrations-sales-inquiry-events には、サンプルのAPI Json フォーマットが含まれています。
 sap-api-integrations-sales-inquiry-events は、オンプレミス版である（＝クラウド版ではない）SAPS4HANABusinessEvents の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
 https://api.sap.com/event/SAPS4HANABusinessEvents_SalesInquiryEvents/overview
